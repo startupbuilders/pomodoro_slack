@@ -1,0 +1,12 @@
+http://elixir-lang.org/getting-started/introduction.html
+https://github.com/h4cc/awesome-elixir#rest-and-api
+http://code.dblock.org/2015/04/28/slack-bot-real-time-messaging-api-integration-tutorial.html
+https://github.com/elixir-lang/plug
+https://api.slack.com/tokens
+https://id.heroku.com/login
+https://pomodoro-slack.herokuapp.com/
+https://github.com/CharlieHess/slack-poker-bot
+http://elixirsips.com/episodes.html
+https://github.com/koudelka/slacker
+https://github.com/BlakeWilliams/Elixir-Slack/blob/master/lib/slack.ex
+https://github.com/mtgto/Elixir-SlackBot
